@@ -1,0 +1,43 @@
+html{
+    font-family: 'open-sans' , sans-serif;
+}
+.inline-block{
+    display: inline-block;
+    vertical-align: top; 
+}
+.nav{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+ 
+}
+.heroImg{
+    height: 600px;
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+}
+p{
+    width: 400px;
+}
+footer{
+    display:inline-flex;
+    background-color: #C8C2C2;
+    color: rgb(7, 8, 8);
+    width: 100%;
+    align-items: center;
+}
+.button{
+    padding: 10px;
+    width: 150px;
+}
+.words{
+    padding: 15px;
+}
+.links{
+    right: 10px
+}
+.name{
+    display: flex;
+    align-items: center;
+}
